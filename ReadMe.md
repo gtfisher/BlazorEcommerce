@@ -12,10 +12,14 @@ To run from CLI can got to server dir and run
 dotnet watch run
 
 
-Blazor component frameworks
+Blazor component frameworks & resources
 
 * https://blazorise.com/docs
 * https://mudblazor.com/
+
+* https://github.com/AdrienTorris/awesome-bla
+
+
 
 
 
