@@ -1,15 +1,24 @@
-﻿h1 {
-    color: brown;
+﻿.media-img {
+    max-height: 500px;
+    max-width: 500px;
+    border-radius: 6px;
+    margin: 0 10px 10px 10px;
+}
+
+h2 {
+    color: red;
     font-family: Tahoma, Geneva, Verdana, sans-serif;
 }
+
 
 @media (max-width: 1023.98px) {
     .media {
         flex-direction: column;
     }
 
+
     .media-img-wrapper {
         width: 100%;
         height: auto;
     }
-}
+
